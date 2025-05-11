@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SumitMund1604
-- 👀 I’m interested in AI&ML along with
+- 👀 I’m interested in AI&ML along with DSA
 - 🌱 I’m currently learning basic of AI
 - 💞️ I’m looking to collaborate on some open source project
 - 📫 contact with me @=mundsam25@gmail.com

@@ -1,40 +1,30 @@
-# Hi, I'm Sumit Mund 👋
+# Sumit Mund
 
-**AI/ML Engineer** building intelligent systems from Bhubaneswar, India.
+**AI/ML Engineer** · Bhubaneswar, India
 
-I specialize in **Reinforcement Learning** and love training agents to solve complex problems — like teaching AI to race like an F1 champion.
-
----
-
-### What I'm Working On
-
-🏎️ **[F1 RL Agent](https://github.com/SumitMund1604/f1_rl)** — Training autonomous racing agents with reinforcement learning  
-⚙️ **[scratch-x08](https://github.com/SumitMund1604/scratch-x08)** — Low-level implementations from scratch in C
+I build intelligent systems with a focus on **Reinforcement Learning**. Currently training AI agents to race autonomously — think F1, but with code.
 
 ---
 
-### Tech I Work With
+## Projects
 
-```
-Languages    → Python, C, C++, JavaScript
-AI/ML        → PyTorch, TensorFlow, Gymnasium, OpenCV
-Tools        → Git, VS Code, Jupyter, Google Colab
-```
+**[F1 RL Agent](https://github.com/SumitMund1604/f1_rl)** — Autonomous racing agent trained with reinforcement learning  
+**[scratch-x08](https://github.com/SumitMund1604/scratch-x08)** — Low-level implementations from scratch in C
 
 ---
 
-### GitHub
+## Skills
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SumitMund1604&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true&icon_color=888)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SumitMund1604&layout=compact&theme=transparent&hide_border=true&hide_title=true)
-
----
-
-### Let's Connect
-
-📧 [mundsam25@gmail.com](mailto:mundsam25@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/sumit-mund-986017332) · 𝕏 [@Idx1604](https://x.com/Idx1604)
+**Languages:** Python, C, C++, JavaScript  
+**AI/ML:** PyTorch, TensorFlow, Gymnasium, OpenCV  
+**Tools:** Git, VS Code, Jupyter, Google Colab
 
 ---
 
-<sub>*"Building intelligence through code."*</sub>
+## Contact
+
+[Email](mailto:mundsam25@gmail.com) · [LinkedIn](https://linkedin.com/in/sumit-mund-986017332) · [X](https://x.com/Idx1604)
+
+---
+
+*Building intelligence through code.*

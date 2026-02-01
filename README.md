@@ -23,12 +23,11 @@ Tools        → Git, VS Code, Jupyter, Google Colab
 
 ---
 
-### Stats
+### GitHub
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SumitMund1604&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitMund1604&theme=dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SumitMund1604&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true&icon_color=888)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SumitMund1604&layout=compact&theme=transparent&hide_border=true&hide_title=true)
 
 ---
 
